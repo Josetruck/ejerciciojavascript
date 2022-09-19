@@ -1,10 +1,10 @@
 var palabra = [prompt("introduce la primera palabra"),prompt("introduce la segunda palabra"),prompt("introduce la tercera palabra"),prompt("introduce la cuarta palabra"),prompt("introduce la quinta palabra"),prompt("introduce la sexta palabra"),prompt("introduce la séptima palabra")]
-// método rápido
+/* método rápido
 
-// palabra.sort();
-// console.log(palabra)
-// alert(palabra)
-
+palabra.sort();
+console.log(palabra)
+alert(palabra)
+*/
 
 var mem;
 var k;
