@@ -5,12 +5,6 @@ var palabra = [prompt("introduce la primera palabra"),prompt("introduce la segun
 // console.log(palabra)
 // alert(palabra)
 
-// var i = 0
-// while(palabra[0] > palabra[1] > palabra[2] > palabra[3] > palabra[4] > palabra[5] > palabra[6]){
-//    if(palabra[i] < palabra [i+1]){
-//     palabra.push(i+1, palabra[i])
-//    }
-// }
 
 var mem;
 var k;
